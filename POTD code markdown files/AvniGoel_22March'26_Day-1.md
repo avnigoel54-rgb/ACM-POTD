@@ -23,4 +23,4 @@
     };
 ```
 
-![Output Screenshot](day1.png)
+![Output Screenshot](../POTD%20solution%20screenshots/day1.png)
