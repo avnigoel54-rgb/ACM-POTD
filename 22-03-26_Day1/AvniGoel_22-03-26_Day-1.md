@@ -23,4 +23,4 @@
     };
 ```
 
-![Output Screenshot](../POTD%20solution%20screenshots/day1.png)
+![Output Screenshot](AvniGoel_22-03-26_Day1.png)
