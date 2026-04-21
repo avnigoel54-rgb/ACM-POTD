@@ -1,5 +1,5 @@
 
-# LeetCode 70. **Pascal's Triangle**
+# LeetCode 118. **Pascal's Triangle**
 
 ## **Approach** - 
     - Each row is built using the nCr relation where every element is computed iteratively from the previous one using multiplication and division to avoid factorials. 
